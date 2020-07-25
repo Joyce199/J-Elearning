@@ -1,0 +1,19 @@
+
+.log_in{
+    border: 2px dotted blue;
+    border-radius: 10px 70px;
+    padding-bottom: 20px;
+    margin: 100px 350px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+
+.home_sign_up{
+    border: 2px dotted blue;
+    border-radius: 10px 70px;
+    padding-bottom: 20px;
+    margin: 0px 350px;
+    background-color: aquamarine;
+    text-align: center;
+}
